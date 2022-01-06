@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atchuross
 - 👀 I’m interested in mobile developpement
 - 🌱 I’m currently learning flutter framework
-- 📫 How to reach me : go to "clement-clauzel.fr"
+- 📫 How to reach me ? go to "clement-clauzel.fr"
 
 <!---
 Atchuross/Atchuross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
