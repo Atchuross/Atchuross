@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T14:27:41.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="pLd5AR3cQyWS4pS92ZMB" type="github"><diagram id="8C4tknRILxLHSZEhUtls">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-29T14:51:07.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="Q2Ysvqpkg4xZCCyxmokl" type="github">
+  <diagram id="UYGtPtRNOIYMg_zF1mea" name="Page-1">
+    <mxGraphModel dx="1841" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="570" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-3" target="03NYZ-AiQXF2nu_Zanky-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-3" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp_alt;" vertex="1" parent="1">
+          <mxGeometry x="200" y="735" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-4" target="03NYZ-AiQXF2nu_Zanky-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="730" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="555" y="755" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-6" value="Micro Processeur ARM Cortex M7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-8" target="03NYZ-AiQXF2nu_Zanky-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-8" value="RGB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-9" target="03NYZ-AiQXF2nu_Zanky-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-9" value="Carte reseaux" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="175" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-11" target="03NYZ-AiQXF2nu_Zanky-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-11" value="Alimentation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-14" target="03NYZ-AiQXF2nu_Zanky-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-14" value="Microphone" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="345" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-15" target="03NYZ-AiQXF2nu_Zanky-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="755" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-18" target="03NYZ-AiQXF2nu_Zanky-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-18" target="03NYZ-AiQXF2nu_Zanky-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-18" value="Haut-parleur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="345" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-21" target="03NYZ-AiQXF2nu_Zanky-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-21" value="Carte Wifi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-24" target="03NYZ-AiQXF2nu_Zanky-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-24" value="Stockage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="03NYZ-AiQXF2nu_Zanky-26" target="03NYZ-AiQXF2nu_Zanky-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03NYZ-AiQXF2nu_Zanky-26" value="Memoire SRAM/ROM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
