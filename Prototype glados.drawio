@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T09:00:04.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="zWjrx9fzeaPVy6dTEtC6" type="github"><diagram id="XTwzzjRDGQs3JMAkxQ49">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-30T12:06:12.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="gCo0ui-D2BCvzRBM98Kc" type="github">
+  <diagram id="5USZUcVTAMLzzotcFr-4" name="Page-1">
+    <mxGraphModel dx="1381" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y8R4QCVX14LWHmkdBE8C-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y8R4QCVX14LWHmkdBE8C-2" target="Y8R4QCVX14LWHmkdBE8C-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8R4QCVX14LWHmkdBE8C-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y8R4QCVX14LWHmkdBE8C-2" target="Y8R4QCVX14LWHmkdBE8C-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8R4QCVX14LWHmkdBE8C-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/3-electronic-arduino-chipset-icon-2-128.png" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="148" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8R4QCVX14LWHmkdBE8C-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="536.5" y="210" width="35" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8R4QCVX14LWHmkdBE8C-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.microphone;" vertex="1" parent="1">
+          <mxGeometry x="710" y="375.5" width="53" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8R4QCVX14LWHmkdBE8C-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;" vertex="1" parent="1">
+          <mxGeometry x="551.5" y="404" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
